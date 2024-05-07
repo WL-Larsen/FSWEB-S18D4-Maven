@@ -7,8 +7,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="s18d1" />
         <module name="FSWEB-S18D1-Java-Projesi-main" />
+        <module name="s18d1" />
       </profile>
     </annotationProcessing>
   </component>
